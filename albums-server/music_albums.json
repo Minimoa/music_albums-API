@@ -1,0 +1,22 @@
+{
+    "music_albums": [
+        {
+            "title": "Taylor Siwft",
+            "artist": "Taylor Siwft",
+            "image": "https://www.rollingstone.com/wp-content/uploads/2019/12/TaylorSwiftTimIngham.jpg",
+            "thumbnail_image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/191125_Taylor_Swift_at_the_2019_American_Music_Awards.png/250px-191125_Taylor_Swift_at_the_2019_American_Music_Awards.png"
+        },
+        {
+            "title": "Butter",
+            "artist": "BTS",
+            "image": "https://flexible.img.hani.co.kr/flexible/normal/882/367/imgdb/original/2021/0612/1416234569469929.jpg",
+            "thumbnail_image":"https://koreajoongangdaily.joins.com/data/photo/2021/08/03/28ab87ce-8630-486c-9027-e4c844cd4237.jpg"
+        },
+        {
+            "title": "Permission to Dance",
+            "artist": "BTS",
+            "image": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/ENGLISH/Article/60/eb/6c/d9/60eb6cd9063cd2738245.jpg",
+            "thumbnail_image":"https://1.bp.blogspot.com/-V3I5ZGIJ4rs/YOSyt91dDII/AAAAAAAATmo/gQsMaFUcmQwdxVLyENKBuYTCg-FXCZORwCLcBGAsYHQ/s600/BTS-Permission-to-Dance.jpg"
+        }
+    ]
+}

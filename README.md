@@ -10,7 +10,13 @@ This is `json server` for whom looking for `rallycoding.herokuapp.com/api/music_
    npm install json-server ngrok
    ```
 
-2. Run the server
+2. Change directory to project directory 
+
+   ```shell
+   cd albums-server
+   ```
+
+3. Run the server
 
    ```shell
    npm run music_albums
@@ -22,7 +28,7 @@ This is `json server` for whom looking for `rallycoding.herokuapp.com/api/music_
    npm run tunnel
    ```
 
-3. Use `ngrok` Forwarding as baseURL 
+4. Use `ngrok` Forwarding as baseURL 
 
 ## json reponse looks like..
 ![image](https://user-images.githubusercontent.com/13061461/129828957-413c1900-103d-4f32-a7de-bd1ea72b304d.png)
