@@ -1,6 +1,6 @@
 # Music_albums API
 
-This is `json server` for whom looking for `rallycoding.herokuapp.com/api/music_albums`. I made it Because i need it for udemy course (`The Complete React Native + Hooks Course`). 
+This is `json server` for whom looking for `rallycoding.herokuapp.com/api/music_albums` for udemy course (`The Complete React Native + Hooks Course`). 
 
 ## How to use 
 
@@ -28,7 +28,7 @@ This is `json server` for whom looking for `rallycoding.herokuapp.com/api/music_
    npm run tunnel
    ```
 
-4. Use `ngrok` Forwarding as baseURL 
+4. Use `ngrok` `Forwarding` as `baseURL` 
 
 ## json reponse looks like..
 ![image](https://user-images.githubusercontent.com/13061461/129828957-413c1900-103d-4f32-a7de-bd1ea72b304d.png)
