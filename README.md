@@ -30,8 +30,7 @@ This is `json server` for whom looking for `rallycoding.herokuapp.com/api/music_
 
 4. Use `ngrok` `Forwarding` as `baseURL` 
 
-## json reponse looks like..
-![image](https://user-images.githubusercontent.com/13061461/129828957-413c1900-103d-4f32-a7de-bd1ea72b304d.png)
+
 
 ## ETC
 
